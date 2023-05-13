@@ -12,9 +12,9 @@ public class TransactionTest {
 		Transaction transaction1 = new Transaction();
 		transaction1.setTransactionId(1);
 		transaction1.setDescription("IMPS");
-		transaction1.setToAccount("sai");
-		transaction1.setFromAccount("ram");
-		transaction1.setBalanceAmount(123456);
+		transaction1.setToAccount("ganireddy");
+		transaction1.setFromAccount("durga");
+		transaction1.setBalanceAmount(489595);
 		transaction1.setTransactionDate(new Date());
 
 		TransactionType transactionType = new TransactionType(1, "UPI");

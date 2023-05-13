@@ -13,10 +13,7 @@ public class BranchTest {
 	public static void main(String[] args) {
 
 		Branch bhimavaram = new Branch();
-		bhimavaram.setBranchId(1);
-		bhimavaram.setName("GUNIPUDI");
-		bhimavaram.setCode(263783);
-		bhimavaram.setIfscCode("GUNP012345");
+		
 		bhimavaram.setRegisterDate(new Date());
 		bhimavaram.setAddressId(1);
 		bhimavaram.setAddressLine1("FLAT NO 3, SUNKARA COMPLEX");

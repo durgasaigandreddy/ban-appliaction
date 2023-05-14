@@ -1,1 +1,1 @@
-# bank-appliaction
+# bank-application
